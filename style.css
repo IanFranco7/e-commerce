@@ -693,6 +693,10 @@ header .icons a:hover{
       .home #next{
         top:85%;
       }
+
+      .featured .row .image-container .small-image img{
+        width: 6.2rem;
+        }
 }
 
 @media (max-width: 400px){
@@ -707,4 +711,10 @@ header .icons a:hover{
     .heading{
         font-size: 3rem;
     }
+
+    .featured .row .image-container .small-image img{
+    width: 5rem;
+    }
+
+
 }
