@@ -280,7 +280,7 @@ header .icons a:hover{
 .box-container{
     width: 100%;
 }
-.box{
+.service .box{
     text-align: center;
     width: 30%;
     background-color: rgb(236, 233, 233);
@@ -307,7 +307,7 @@ header .icons a:hover{
     color: black;
 }
 
-.box img{
+.service .box img{
     width: 70%;
     transform: rotate(-30deg) ;
     margin-bottom: 5rem;
