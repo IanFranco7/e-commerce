@@ -3,9 +3,9 @@
 
 # Sobre o projeto
 
-Construi o front-end de um site de um ecommerce de produtos, me inspirando no design dos grandes ecommerce do mercado. Trazendo uma boa experiência do usuário e facilidade para uso. 
+Construi o front-end de um site de um ecommerce de produtos, me inspirando no design das grandes lojas do mercado. Trazendo uma boa experiência do usuário e facilidade para uso. 
 
-O projeto possui elementos de um ecommerce real como: produtos em destaque, galeria de fotos, menu de navageção, opiniões de clientes e outras coisas.
+O projeto possui elementos de um ecommerce real como: produtos em destaque, galeria de fotos, menu de navegação, opiniões de clientes e outras coisas.
 
 Link para acessar: https://ianfranco7.github.io/e-commerce/
 
